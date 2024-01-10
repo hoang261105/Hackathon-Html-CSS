@@ -1,5 +1,6 @@
 .header {
   width: 100%;
+
 }
 
 .section {
@@ -7,6 +8,7 @@
    display: flex;
    justify-content: space-around;
    background-color: bisque;
+   margin-top: 80px;
 }
 
 .pen{
@@ -37,6 +39,10 @@
   color: darkgray;
 }
 
+.info b{
+  width: 60px;
+  border-bottom: 2px solid orange;
+}
 .info h2 {
   text-align: center;
   font-family: "Times New Roman", Times, serif;
